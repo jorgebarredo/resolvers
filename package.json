@@ -1,7 +1,7 @@
 {
-  "name": "@hookform/resolvers",
+  "name": "@jorgebarredo/resolvers",
   "amdName": "hookformResolvers",
-  "version": "2.9.1",
+  "version": "1.0.1",
   "description": "React Hook Form validation resolvers: Yup, Joi, Superstruct, Zod, Vest, Class Validator, io-ts, Nope, computed-types and Typanion",
   "main": "dist/resolvers.js",
   "module": "dist/resolvers.module.js",
@@ -166,7 +166,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-hook-form/resolvers.git"
+    "url": "git+https://github.com/jorgebarredo/resolvers.git"
   },
   "author": "bluebill1049 <bluebill1049@hotmail.com>",
   "license": "MIT",
